@@ -3,7 +3,7 @@
 > **Zero-cost website monitoring + public status page, running entirely on the Cloudflare free tier.**
 > An enhanced fork of [Uptime-Monitor](https://github.com/nianshu2022/Uptime-Monitor) (MIT).
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xusteve/MonitorFlare)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/F46886799/dreamlabs-monitorflare)
 <a href="https://uptime.csr.plus/"><img src="https://monitorflare.csr.plus/uptime-badge.png" height="28" alt="Uptime Status"></a>
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
